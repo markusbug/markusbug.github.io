@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "personal-site-hosting-d89be"
-  }
+    "default": "markushaas-site"
+  },
+  "targets": {},
+  "etags": {}
 }
